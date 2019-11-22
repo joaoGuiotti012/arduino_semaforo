@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For SevenSegmentsUtils
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SevenSegmentsUtils	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		    KEYWORD2
+controllPoint   KEYWORD2
+printDigit		KEYWORD2
+printDigits     KEYWORD2
+animacao        KEYWORD2
+printText       KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
